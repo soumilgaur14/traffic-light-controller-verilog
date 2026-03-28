@@ -83,7 +83,9 @@ S0 → S1 → S2 → S3 → S0
   * State transitions
   * Timing behavior
   * Pedestrian handling
+## 📈 Simulation Waveform
 
+![Waveform](Waveform ScreenShot- Traffic Light.png)
 ---
 
 ## 📁 Project Structure
@@ -111,7 +113,10 @@ traffic-light-controller/
 * Vehicle detection-based adaptive control
 
 ---
-
+## 💡 Key Learnings
+- Designed and verified a Moore FSM using Verilog  
+- Implemented timing control using clock division  
+- Integrated simulation and FPGA deployment workflows  
 ## 👨‍💻 Author
 
 **Soumil Gaur**
