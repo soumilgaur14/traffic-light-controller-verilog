@@ -86,6 +86,7 @@ S0 → S1 → S2 → S3 → S0
 ## 📈 Simulation Waveform
 
 ![Waveform](waveform_traffic_light.png)
+The waveform shows correct FSM transitions and pedestrian handling logic.
 ---
 
 ## 📁 Project Structure
