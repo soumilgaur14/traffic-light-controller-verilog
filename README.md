@@ -85,7 +85,7 @@ S0 → S1 → S2 → S3 → S0
   * Pedestrian handling
 ## 📈 Simulation Waveform
 
-![Waveform](Waveform ScreenShot - Traffic Light.png)
+![Waveform](waveform_traffic_light.png)
 ---
 
 ## 📁 Project Structure
